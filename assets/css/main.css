@@ -21,7 +21,7 @@
 	}
 
 	ol, ul, li {
-		list-style: none !important;
+		list-style: none;
 	}
 
 	blockquote, q {
@@ -4065,4 +4065,7 @@
 						padding: 0;
 					}
 
+	}
+.list-style-none {
+		list-style: none !important;
 	}
